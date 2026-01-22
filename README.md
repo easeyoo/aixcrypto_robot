@@ -3,8 +3,8 @@
 
 ## 使用说明
 
-1.使用Chrome浏览器访问Aixcrypto C10 Prediction Market页面，使用如下快捷方式打开开发者工具：
-Windows/Linux: Ctrl + Shift + I 或 F12
-Mac: Cmd + Option + I
-2.在开发者工具中切换至Console选项，在控制台输入allow pasting，使控制台允许粘贴脚本。
-3.复制aixcrypto_robot.js中的脚本代码至控制台，按回车键开始执行。
+1.使用Chrome浏览器访问Aixcrypto C10 Prediction Market页面，使用如下快捷方式打开开发者工具：  
+Windows/Linux: Ctrl + Shift + I 或 F12  
+Mac: Cmd + Option + I  
+2.在开发者工具中切换至Console选项，在控制台输入allow pasting，使控制台允许粘贴脚本。  
+3.复制aixcrypto_robot.js中的脚本代码至控制台，按回车键开始执行。  
